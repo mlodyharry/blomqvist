@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.audio.storytel" name="Storytel" version="1.0" provider-name="mbebe">
+<addon id="plugin.audio.storytel" name="Storytel" version="1.0" provider-name="mlodyharry">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -23,7 +23,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.35mmonline" version="1.1" name="35mm.online" provider-name="mbebe">
+<addon id="plugin.video.35mmonline" version="1.1" name="35mm.online" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -46,7 +46,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.arenaparty" version="1.0" name="ArenaParty" provider-name="mbebe">
+<addon id="plugin.video.arenaparty" version="1.0" name="ArenaParty" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="4.0.0"/>
@@ -77,7 +77,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.artetvpl" name="Arte.tv PL" version="0.2" provider-name="mbebe/mtr81">
+<addon id="plugin.video.artetvpl" name="Arte.tv PL" version="0.2" provider-name="mlodyharry">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.requests" />
@@ -104,7 +104,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.baj24pl" name="Bajeczki24.pl" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.baj24pl" name="Bajeczki24.pl" version="0.1" provider-name="mlodyharry">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
@@ -129,7 +129,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.11" provider-name="mbebe">
+<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.11" provider-name="mlodyharry">
     <requires>
 
         <import addon="script.module.requests" />
@@ -157,7 +157,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.bolly2tolly" name="Bolly 2 tolly" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.bolly2tolly" name="Bolly 2 tolly" version="0.1" provider-name="mlodyharry">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -183,7 +183,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.bosoprzezswiat" name="Boso przez świat" version="1.3" provider-name="mbebe">
+<addon id="plugin.video.bosoprzezswiat" name="Boso przez świat" version="1.3" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -239,7 +239,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.canelatv" name="Canela TV" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.canelatv" name="Canela TV" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -263,7 +263,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.cdahd" version="1.7.0" name="cda-hd" provider-name="mbebe">
+<addon id="plugin.video.cdahd" version="1.7.0" name="cda-hd" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12a"/>
@@ -295,7 +295,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdapl" version="2.7" name="cda.pl" provider-name="mbebe">
+<addon id="plugin.video.cdapl" version="2.7" name="cda.pl" provider-name="mlodyharry">
 <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.common.plugin.cache" version="2.5.5"/>
@@ -322,7 +322,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaplMB" version="1.13" name="CDA.pl + CDA TV" provider-name="mbebe">
+<addon id="plugin.video.cdaplMB" version="1.13" name="CDA.pl + CDA TV" provider-name="mlodyharry">
 <requires>
     <import addon="script.module.requests"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -348,7 +348,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaxpl" version="1.3.7" name="cda-tv.pl " provider-name="mbebe">
+<addon id="plugin.video.cdaxpl" version="1.3.7" name="cda-tv.pl " provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -379,7 +379,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.13" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.13" provider-name="mlodyharry">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.six"/>
@@ -404,7 +404,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.dokumentalnenet" name="dokumentalne.net" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.dokumentalnenet" name="dokumentalne.net" version="1.2" provider-name="mlodyharry">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.resolveurl"/>
@@ -428,7 +428,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.dokumentcyfrowo" version="1.2" name="Dokument Cyfrowo" provider-name="mbebe">
+<addon id="plugin.video.dokumentcyfrowo" version="1.2" name="Dokument Cyfrowo" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -456,7 +456,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.efilmy" version="1.27" name="efilmy" provider-name="mbebe">
+<addon id="plugin.video.efilmy" version="1.27" name="efilmy" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="3.0.15"/>
@@ -485,7 +485,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.6" provider-name="mbebe">
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.6" provider-name="mlodyharry">
   <requires>
     <!-- <import addon="xbmc.python" version="3.0.0"/> -->
     <import addon="script.module.six"/>
@@ -518,7 +518,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.20" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.20" provider-name="mlodyharry">
 	<requires>
 		<import addon="script.module.resolveurl"/>
 		<import addon="script.module.six"/>
@@ -557,7 +557,7 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
-<addon id="plugin.video.fboxto" name="fbox.to" version="1.4" provider-name="mbebe">
+<addon id="plugin.video.fboxto" name="fbox.to" version="1.4" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -580,7 +580,7 @@ Tabele, terminarze, listy strzelców
     </extension>
 </addon>
 
-<addon id="plugin.video.fifaplusbeta" name="FIFA plus (beta)" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.fifaplusbeta" name="FIFA plus (beta)" version="0.5" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.routing" />
         <import addon="script.module.requests" />
@@ -606,7 +606,7 @@ Tabele, terminarze, listy strzelców
     </extension>
 </addon>
 
-<addon id="plugin.video.filmancc" version="2.11" name="filman.cc" provider-name="mbebe">
+<addon id="plugin.video.filmancc" version="2.11" name="filman.cc" provider-name="mlodyharry">
 <requires>
   <import addon="script.module.resolveurl" version="5.0.00"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
@@ -636,7 +636,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.filmantv" name="filmantv" version="1.3" provider-name="mbebe">
+<addon id="plugin.video.filmantv" name="filmantv" version="1.3" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -661,7 +661,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.filmbooster" version="3.5" name="FilmwebBooster" provider-name="mbebe">
+<addon id="plugin.video.filmbooster" version="3.5" name="FilmwebBooster" provider-name="mlodyharry">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.00"/>
@@ -693,7 +693,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.filmowoclub" name="Filmowo.club" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.filmowoclub" name="Filmowo.club" version="0.1" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -717,7 +717,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.flixclassic" name="Flixclassic.pl" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.flixclassic" name="Flixclassic.pl" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.routing" />
         <import addon="script.module.requests" />
@@ -743,7 +743,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.31" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.31" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -766,7 +766,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.freedisc.pl" version="1.7" name="freedisc" provider-name="mbebe">
+<addon id="plugin.video.freedisc.pl" version="1.7" name="freedisc" provider-name="mlodyharry">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.routing" />
@@ -796,7 +796,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.gomoviesmb" name="GOmovies.sx" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.gomoviesmb" name="GOmovies.sx" version="0.2" provider-name="mlodyharry">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
@@ -821,7 +821,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.gonettv" name="goNET.TV - LEPSI.TV" version="1.5" provider-name="mbebe, marcin-szczepanski">
+<addon id="plugin.video.gonettv" name="goNET.TV - LEPSI.TV" version="1.5" provider-name="mlodyharry">
 	<requires>
 
 		<import addon="script.module.requests" />
@@ -845,7 +845,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.goojara" name="goojara.to" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.goojara" name="goojara.to" version="0.5" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -869,7 +869,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.grupamirai" name="Grupa Mirai (anime)" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.grupamirai" name="Grupa Mirai (anime)" version="0.1" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
@@ -897,7 +897,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.HDseans" version="1.13" name="HDseans" provider-name="mbebe">
+<addon id="plugin.video.HDseans" version="1.13" name="HDseans" provider-name="mlodyharry">
 <requires>
 	<import addon="script.module.six"/>
 	<import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -928,7 +928,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.horizongo" name="UPC TV GO (Horizon GO)" version="2.6" provider-name="mbebe, mtr81">
+<addon id="plugin.video.horizongo" name="UPC TV GO (Horizon GO)" version="2.6" provider-name="mlodyharry">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.requests" />
@@ -954,7 +954,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.iitv" name="iitv-seriale" version="2.8" provider-name="mbebe">
+<addon id="plugin.video.iitv" name="iitv-seriale" version="2.8" provider-name="mlodyharry">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -981,7 +981,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.kanalsportowy" name="Kanal Sportowy" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.kanalsportowy" name="Kanal Sportowy" version="1.2" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.routing" />
         <import addon="script.module.requests" />
@@ -1008,7 +1008,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.kickcommb" name="KICK.com" version="1.1" provider-name="mbebe">
+<addon id="plugin.video.kickcommb" name="KICK.com" version="1.1" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -1033,7 +1033,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.6" provider-name="mbebe">
+<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.6" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1059,7 +1059,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.5" provider-name="mbebe">
+<addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.5" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -1084,7 +1084,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.8" provider-name="mbebe">
+<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.8" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1107,7 +1107,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.lookmovietomb" name="LookMovie" version="0.6" provider-name="mbebe">
+<addon id="plugin.video.lookmovietomb" name="LookMovie" version="0.6" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1133,7 +1133,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.magentatv" name="Magenta TV (beta)" version="0.4" provider-name="mbebe">
+<addon id="plugin.video.magentatv" name="Magenta TV (beta)" version="0.4" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -1160,7 +1160,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.43" provider-name="mbebe">
+<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.43" provider-name="mlodyharry">
 	<requires>
 		<import addon="xbmc.addon" version="17.9.910"/>
 		<import addon="script.module.requests" />
@@ -1186,7 +1186,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.netiago" version="1.2" name="Netia Go" provider-name="mbebe">
+<addon id="plugin.video.netiago" version="1.2" name="Netia Go" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -1214,7 +1214,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.nfmirror" name="Netflix Mirror" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.nfmirror" name="Netflix Mirror" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1240,7 +1240,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.nhl66streams" name="NHL66 streams" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.nhl66streams" name="NHL66 streams" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1266,7 +1266,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.ninateka" version="1.7.1" name="Ninateka" provider-name="mbebe, heppen-dev, zuzia-dev">
+<addon id="plugin.video.ninateka" version="1.7.1" name="Ninateka" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
         <import addon="script.module.requests"/>
@@ -1292,7 +1292,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.orangetvgo" name="Orange TV Go" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.orangetvgo" name="Orange TV Go" version="0.5" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.routing" />
@@ -1318,7 +1318,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.22" provider-name="mbebe">
+<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.22" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="script.module.requests" />
@@ -1349,7 +1349,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.pgobox" version="1.100" name="Polsat Box Go" provider-name="mbebe, mariusz89b, mtr81">
+<addon id="plugin.video.pgobox" version="1.100" name="Polsat Box Go" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -1377,7 +1377,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.12.3" name="PlayerPLmb" provider-name="mbebe, m1992, rysson">
+<addon id="plugin.video.playermb" version="1.12.3" name="PlayerPLmb" provider-name="mlodyharry">
 <requires>
     <!-- <import addon="xbmc.python" version="3.0.0" /> -->
     <import addon="script.module.six" />
@@ -1433,7 +1433,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.17" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.17" provider-name="mlodyharry">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six"/>
@@ -1462,7 +1462,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.polsatgo" name="Polsat GO" version="1.92" provider-name="mbebe, mariusz89b">
+<addon id="plugin.video.polsatgo" name="Polsat GO" version="1.92" provider-name="mlodyharry">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1485,7 +1485,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ramicpolsat" version="1.6" name="PolsatNews" provider-name="mbebe">
+<addon id="plugin.video.ramicpolsat" version="1.6" name="PolsatNews" provider-name="mlodyharry">
 <requires>
   <import addon="script.module.requests" />
   <import addon="script.module.six"/>
@@ -1512,7 +1512,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.redgofilm" name="Redgo.film" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.redgofilm" name="Redgo.film" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -1539,7 +1539,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sanimepl" name="SuperanimePL" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.sanimepl" name="SuperanimePL" version="1.2" provider-name="mlodyharry">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -1564,7 +1564,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.serialnet" name="serialnet.pl" version="1.1" provider-name="xxxxxx">
+<addon id="plugin.video.serialnet" name="serialnet.pl" version="1.1" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -1588,7 +1588,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1619,7 +1619,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.8" provider-name="mbebe">
+<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.8" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -1645,7 +1645,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.subsmovies" name="Subsmovies.club" version="0.6" provider-name="mbebe">
+<addon id="plugin.video.subsmovies" name="Subsmovies.club" version="0.6" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1669,7 +1669,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sweettvpl" name="Sweet TV" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.sweettvpl" name="Sweet TV" version="0.1" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.routing" />
         <import addon="script.module.requests" />
@@ -1694,7 +1694,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.televiopl" name="Televio PL" version="0.7" provider-name="mbebe">
+<addon id="plugin.video.televiopl" name="Televio PL" version="0.7" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />
@@ -1718,7 +1718,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -1742,7 +1742,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.tugaflixmb" name="Tugaflix.best" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.tugaflixmb" name="Tugaflix.best" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1769,7 +1769,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.tvn24pl" version="1.8" name="TVN24.PL" provider-name="mbebe">
+<addon id="plugin.video.tvn24pl" version="1.8" name="TVN24.PL" provider-name="mlodyharry">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -1801,7 +1801,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.49" provider-name="mbebe">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.49" provider-name="mlodyharry">
   <requires>
     <!-- <import addon="xbmc.python" version="2.1.0"/> -->
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1827,7 +1827,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.16" provider-name="mbebe">
+<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.16" provider-name="mlodyharry">
 	<requires>
 		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
 		<import addon="script.module.six"/>
@@ -1853,7 +1853,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.tvparapobres" name="Tvparapobres" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.tvparapobres" name="Tvparapobres" version="0.3" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1880,7 +1880,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.tvseriesvideo" name="TVseries.video" version="0.4" provider-name="mbebe">
+<addon id="plugin.video.tvseriesvideo" name="TVseries.video" version="0.4" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -1904,7 +1904,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.uktvlivecom" name="UK TV Live" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.uktvlivecom" name="UK TV Live" version="0.1" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
@@ -1932,7 +1932,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.9" provider-name="mbebe">
+<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.9" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />
@@ -1956,7 +1956,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.viderpl" version="1.9.6" name="Vider" provider-name="mbebe">
+<addon id="plugin.video.viderpl" version="1.9.6" name="Vider" provider-name="mlodyharry">
 <requires>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
   <import addon="script.module.requests" version="2.19.1"/>
@@ -1984,7 +1984,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.vixcomtest" name="Vix.com (es-es) test" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.vixcomtest" name="Vix.com (es-es) test" version="0.5" provider-name="mlodyharrylodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -2009,7 +2009,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.vod_pl" version="1.0" name="VOD_PL" provider-name="mbebe, m1992, rysson">
+<addon id="plugin.video.vod_pl" version="1.0" name="VOD_PL" provider-name="mlodyharry">
 <requires>
 	<import addon="xbmc.python" version="3.0.0" /> -->
     <import addon="script.module.six" />
@@ -2037,7 +2037,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.watchserieshdtv" name="WatchSeries_HD" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.watchserieshdtv" name="WatchSeries_HD" version="0.1" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -2061,7 +2061,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.wfdifonline" name="WFDIF.online" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.wfdifonline" name="WFDIF.online" version="0.1" provider-name="mlodyharry">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />
@@ -2085,7 +2085,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.wrestlingwatch" name="Wrestlingwatch_cam" version="0.8" provider-name="mbebe">
+<addon id="plugin.video.wrestlingwatch" name="Wrestlingwatch_cam" version="0.8" provider-name="mlodyharry">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -2110,7 +2110,31 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-    <addon id="repository.mbebe" name="mbebe" version="0.10" provider-name="mbebe">
+<addon id="plugin.video.filsercc" name="Filser.cc" version="0.1" provider-name="mlodyharry">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">filser.cc</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">filser.cc</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+    <addon id="repository.mbebe" name="mbebe" version="0.10" provider-name="mlodyharry">
         <extension point="xbmc.addon.repository" name="mbebe">
             <dir>
                 <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
