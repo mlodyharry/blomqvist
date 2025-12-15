@@ -2134,6 +2134,30 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
+    <addon id="plugin.video.zaluknijcc" name="zaluknij.cc" version="1.0.0" provider-name="mlodyharry">
+  <requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">zaluknij.cc</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">zaluknij.cc</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>zaluknij.cc</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
     <addon id="repository.mbebe" name="mbebe" version="0.10" provider-name="mlodyharry">
         <extension point="xbmc.addon.repository" name="mbebe">
             <dir>
